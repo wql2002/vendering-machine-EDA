@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="EDA2_SellMachine">
+		<CBX_INST_ENTRY INSTANCE_NAME="|sell_machine_2|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_afh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sell_machine_2|select_seg:s1|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_lhm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sell_machine_2|select_seg:s1|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_o9m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sell_machine_2|select_seg:s1|lpm_divide:Mod2" CBX_FILE_NAME="lpm_divide_o9m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sell_machine_2|lpm_mult:Mult1|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_2eh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sell_machine_2|select_seg:s1|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_ohm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sell_machine_2|select_seg:s1|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_r9m.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

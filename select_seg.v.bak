@@ -1,0 +1,13 @@
+module sell_machine(
+	input clk,
+	input in_5j, input in_1y, input in_5y,
+	input in_buy1, input in_buy2, input in_take,
+	input reset,
+	output out_less, output out_take, output out_money);
+	
+reg next;
+
+parameter INIT = 0;
+
+
+endmodule

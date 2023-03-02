@@ -1,0 +1,5 @@
+module debounce(
+	input reset, clk, in,
+	output reg steady);
+	
+parameter limit = 20'h927C0;

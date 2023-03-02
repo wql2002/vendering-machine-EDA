@@ -1,0 +1,11 @@
+module sell_machine(
+	input clk,
+	input in_5j, in_1y, in_5y,
+	input reset, in_take,
+	output reg out_less, out_take, out_money);
+	
+reg next;
+
+//状态参数
+	
+endmodule

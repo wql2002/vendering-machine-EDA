@@ -1,0 +1,7 @@
+module sell_machine(//顶层电路
+	input clk, reset
+	input money_5j, money_1y, money_5y,
+	input buy1, buy2,
+	output less_money, take_stuff, take_money,
+	output [2:0] which_seg, output [6:0] seg);
+	

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Dec 16 19:30:50 2021
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : EDA2_SellMachine
+Top-level Entity Name : sell_machine_2
+Family : Cyclone III
+Total logic elements : 728
+    Total combinational functions : 720
+    Dedicated logic registers : 204
+Total registers : 204
+Total pins : 21
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

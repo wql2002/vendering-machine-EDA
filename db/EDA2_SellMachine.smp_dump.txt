@@ -1,0 +1,9 @@
+
+State Machine - |sell_machine_2|cur_state
+Name cur_state.REFUND cur_state.CHECK cur_state.ERROR cur_state.SHOP_2 cur_state.SHOP_1 cur_state.IDLE 
+cur_state.IDLE 0 0 0 0 0 0 
+cur_state.SHOP_1 0 0 0 0 1 1 
+cur_state.SHOP_2 0 0 0 1 0 1 
+cur_state.ERROR 0 0 1 0 0 1 
+cur_state.CHECK 0 1 0 0 0 1 
+cur_state.REFUND 1 0 0 0 0 1 
